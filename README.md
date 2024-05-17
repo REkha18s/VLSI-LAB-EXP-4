@@ -191,6 +191,9 @@ OUTPUT WAVEFORM
 
 
 **UPDOWN COUNTER**
+
+![image](https://github.com/REkha18s/VLSI-LAB-EXP-4/assets/161815097/3d6668ff-8fe7-4913-a644-418a704d4493)
+
 ~~~
 module updowncounter(clk,rst,updown,out);
 input clk,rst,updown;
